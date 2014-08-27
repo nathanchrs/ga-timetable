@@ -63,8 +63,13 @@ int getminfitnessid(){
 			for(int k = 0; k<nrooms; k++){
 				for(int l = 0; l<nrooms; l++){
 					if(k!=l){
-						if(conflicts[population[i].table[k][j]][population[i].table[l][j]] != 0) tempfitness += 10;
+						if(conflicts[population[i].table[k][j]][population[i].table[l][j]] != 0) tempfitness += 1;
 					}
+				}
+				
+				//calculate availability score
+				for(int l = 0; l<nteachers; l++){
+					if(availability[l][k][j]==0) tempfitness += 1;
 				}
 			}
 		}
