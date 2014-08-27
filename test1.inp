@@ -4,83 +4,83 @@
 0.05
 1
 
-21 2
-NT 1 1
-PS 3 3
-AK 3 3
-BS 2 2
-EH 4 4
-KN1 2 2
-GS 2 2
-SP 3 3
-LB/LI 0 0
-LI/LB 0 0
-LM 2 2
-SENI 2 2
-IR 4 4
-VE 4 4
-WY 4 4
-RD 3 3
-LF/LK 0 0
-LK/LF 0 0
-PS/AK 0 0
-AK/PS 0 0
-LMB 0 0
+21 3
+NT 1 1 1
+PS 3 3 3
+AK 3 3 3
+BS 2 2 2
+EH 4 4 4
+KN1 2 2 2
+GS 2 2 2
+SP 3 3 3
+LB/LI 0 0 0
+LI/LB 0 0 0
+LM 2 2 2
+SENI 2 2 2
+IR 4 4 4
+VE 4 4 4
+WY 4 4 4
+RD 3 3 3
+LF/LK 0 0 0
+LK/LF 0 0 0
+PS/AK 0 0 0
+AK/PS 0 0 0
+LMB 0 0 0
 
-_ _
-PS/AK _
-LB/LI _
-LB/LI _
-_ LF/LK
-_ LF/LK
-_ _
-_ _
-_ _
-_ _
+_ _ PS/AK
+PS/AK _ _
+LB/LI _ _
+LB/LI _ _
+_ LF/LK LK/LF
+_ LF/LK LK/LF
+_ _ _
+_ _ _
+_ _ _
+_ _ _
 
-_ _
-_ _
-_ _
-_ _
-_ PS/AK
-_ _
-_ _
-LMB LMB
-LMB LMB
-LMB LMB
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ PS/AK _
+_ _ _
+_ _ _
+LMB LMB LMB
+LMB LMB LMB
+LMB LMB LMB
 
-_ _
-_ _
-LB/LI _
-LB/LI _
-_ LI/LB
-_ LI/LB
-_ _
-_ _
-_ _
-_ _
+_ _ _
+_ _ _
+LB/LI _ _
+LB/LI _ _
+_ LI/LB LB/LI
+_ LI/LB LB/LI
+_ _ _
+_ _ _
+_ _ _
+_ _ _
 
-_ _
-_ _
-_ _
-_ _
-_ _
-_ _
-_ _
-LMB LMB
-LMB LMB
-LMB LMB
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+LMB LMB LMB
+LMB LMB LMB
+LMB LMB LMB
 
-_ _
-_ _
-_ _
-_ _
-_ _
-_ _
-_ _
-_ _
-_ _
-_ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
+_ _ _
 
  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
